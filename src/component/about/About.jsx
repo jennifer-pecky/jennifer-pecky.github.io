@@ -36,7 +36,7 @@ const About = () => {
 
 
                     <p>
-                        I am a  front-end developer, I have developed a strong understanding of the necessary skills and abilities. I am proficient in HTML, and CSS, and currently learning javascript training. I will move to react in no time .....
+                        I am a  front-end developer, I have developed a strong understanding of the necessary skills and abilities. I am proficient in HTML, CSS javascript. and react
 
                         <br /> I'm a motivated and hard-working individual who is always looking for new challenges. I am also excited to learn and grow as a developer and  I am confident that I can be a valuable asset..
                     </p>
