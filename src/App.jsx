@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import Header from './component/header/Header';
 import Nav from './component/nav/Nav';
-import Experience from './component/experience/Experience';
+// import Experience from './component/experience/Experience';
 import Portfolio from './component/portfolio/Portfolio';
 import Contact from './component/contact/Contact';
 import Footer from './component/footer/Footer';
@@ -14,7 +14,7 @@ const App = () => {
       <Header />
       <Nav />
       <About />
-      <Experience />
+      {/* <Experience /> */}
       <Portfolio />
       <Contact />
       <Footer />
