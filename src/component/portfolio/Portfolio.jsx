@@ -58,7 +58,7 @@ const Portfolio = () => {
             href="https://nft-web22.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
-            className=""
+            className="hover:underline"
           >
             NFT Showcase Website
           </a>
@@ -85,7 +85,7 @@ const Portfolio = () => {
             href="https://jennifer-pecky.github.io/weather-app/"
             target="_blank"
             rel="noopener noreferrer"
-            className=""
+            className="hover:underline"
           >
             Simple Weather App
           </a>
@@ -109,17 +109,44 @@ const Portfolio = () => {
 
         <div className="space-y-3">
           <a
-            href="https://nft-web22.netlify.app/"
+            href="https://jennifer-pecky.github.io/Book-search-app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:underline"
+          >
+            Online Book Search Platform
+          </a>
+          <p className="leading-7 text-base">
+            Crafted an engaging online book search platform <br /> using HTML
+            for structure, Tailwind CSS for styling, and JavaScript <br /> for
+            seamless data retrieval and display.
+          </p>
+          <div className="space-x-3">
+            <button className=' px-2 inline-flex justify-center items-center gap-2 rounded-md bg-pink-100 border border-transparent font-semibold text-pink-500 hover:text-pink-400 hover:bg-pink-100 focus:outline-none focus:ring-2 ring-offset-white focus:ring-pink-500 focus:ring-offset-2 transition-all text-sm dark:focus:ring-offset-gray-800">'>
+              Html
+            </button>
+            <button className="px-2 inline-flex justify-center items-center gap-2 rounded-md bg-pink-100 border border-transparent font-semibold text-pink-500 hover:text-pink-400 hover:bg-pink-100 focus:outline-none focus:ring-2 ring-offset-white focus:ring-pink-500 focus:ring-offset-2 transition-all text-sm dark:focus:ring-offset-gray-800">
+              CSS
+            </button>
+            <button className="px-2 inline-flex justify-center items-center gap-2 rounded-md bg-pink-100 border border-transparent font-semibold text-pink-500 hover:text-pink-400 hover:bg-pink-100 focus:outline-none focus:ring-2 ring-offset-white focus:ring-pink-500 focus:ring-offset-2 transition-all text-sm dark:focus:ring-offset-gray-800">
+              Javascript
+            </button>
+          </div>
+        </div>
+
+        <div className="space-y-3">
+          <a
+            href="https://jennifer-pecky.github.io/calculator/"
             target="_blank"
             rel="noopener noreferrer"
             className=""
           >
-            NFT Showcase Website
+            Interactive Web Calculator
           </a>
           <p>
-            Developed a dynamic NFT showcase website <br /> using React for
-            frontend components, Bootstrap for <br /> responsive design and
-            Javascript for interactive content
+            Developed an interactive calculator web application using <br />{' '}
+            HTML for struture Tailwind css for styling <br /> and Javascript for
+            enabling dynamic calculator
           </p>
           <div className="space-x-3">
             <button className=' px-2 inline-flex justify-center items-center gap-2 rounded-md bg-pink-100 border border-transparent font-semibold text-pink-500 hover:text-pink-400 hover:bg-pink-100 focus:outline-none focus:ring-2 ring-offset-white focus:ring-pink-500 focus:ring-offset-2 transition-all text-sm dark:focus:ring-offset-gray-800">'>
@@ -136,54 +163,27 @@ const Portfolio = () => {
 
         <div className="space-y-3">
           <a
-            href="https://nft-web22.netlify.app/"
+            href="https://www.olhomes.ng/"
             target="_blank"
             rel="noopener noreferrer"
             className=""
           >
-            NFT Showcase Website
+            olhomes.ng
           </a>
           <p>
-            Developed a dynamic NFT showcase website <br /> using React for
-            frontend components, Bootstrap for <br /> responsive design and
-            Javascript for interactive content
+            Contributed collaboratively to the development of "Olhomes," a
+            comprehensive loan application aimed at streamlining the lending
+            process.
           </p>
           <div className="space-x-3">
-            <button className=' px-2 inline-flex justify-center items-center gap-2 rounded-md bg-pink-100 border border-transparent font-semibold text-pink-500 hover:text-pink-400 hover:bg-pink-100 focus:outline-none focus:ring-2 ring-offset-white focus:ring-pink-500 focus:ring-offset-2 transition-all text-sm dark:focus:ring-offset-gray-800">'>
-              Bootstrap
-            </button>
             <button className="px-2 inline-flex justify-center items-center gap-2 rounded-md bg-pink-100 border border-transparent font-semibold text-pink-500 hover:text-pink-400 hover:bg-pink-100 focus:outline-none focus:ring-2 ring-offset-white focus:ring-pink-500 focus:ring-offset-2 transition-all text-sm dark:focus:ring-offset-gray-800">
               React js
             </button>
             <button className="px-2 inline-flex justify-center items-center gap-2 rounded-md bg-pink-100 border border-transparent font-semibold text-pink-500 hover:text-pink-400 hover:bg-pink-100 focus:outline-none focus:ring-2 ring-offset-white focus:ring-pink-500 focus:ring-offset-2 transition-all text-sm dark:focus:ring-offset-gray-800">
-              Javascript
-            </button>
-          </div>
-        </div>
-
-        <div className="space-y-3">
-          <a
-            href="https://nft-web22.netlify.app/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className=""
-          >
-            NFT Showcase Website
-          </a>
-          <p>
-            Developed a dynamic NFT showcase website <br /> using React for
-            frontend components, Bootstrap for <br /> responsive design and
-            Javascript for interactive content
-          </p>
-          <div className="space-x-3">
-            <button className=' px-2 inline-flex justify-center items-center gap-2 rounded-md bg-pink-100 border border-transparent font-semibold text-pink-500 hover:text-pink-400 hover:bg-pink-100 focus:outline-none focus:ring-2 ring-offset-white focus:ring-pink-500 focus:ring-offset-2 transition-all text-sm dark:focus:ring-offset-gray-800">'>
-              Bootstrap
+              Tailwind
             </button>
             <button className="px-2 inline-flex justify-center items-center gap-2 rounded-md bg-pink-100 border border-transparent font-semibold text-pink-500 hover:text-pink-400 hover:bg-pink-100 focus:outline-none focus:ring-2 ring-offset-white focus:ring-pink-500 focus:ring-offset-2 transition-all text-sm dark:focus:ring-offset-gray-800">
-              React js
-            </button>
-            <button className="px-2 inline-flex justify-center items-center gap-2 rounded-md bg-pink-100 border border-transparent font-semibold text-pink-500 hover:text-pink-400 hover:bg-pink-100 focus:outline-none focus:ring-2 ring-offset-white focus:ring-pink-500 focus:ring-offset-2 transition-all text-sm dark:focus:ring-offset-gray-800">
-              Javascript
+              TypeScript
             </button>
           </div>
         </div>
