@@ -58,9 +58,23 @@ const Portfolio = () => {
             href="https://nft-web22.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
-            className="hover:underline"
+            className="hover:underline flex"
           >
             NFT Showcase Website
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              strokeWidth={1.5}
+              stroke="currentColor"
+              className="w-6 h-6"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"
+              />
+            </svg>
           </a>
           <p>
             Developed a dynamic NFT showcase website <br /> using React for
@@ -85,9 +99,23 @@ const Portfolio = () => {
             href="https://jennifer-pecky.github.io/weather-app/"
             target="_blank"
             rel="noopener noreferrer"
-            className="hover:underline"
+            className="hover:underline flex"
           >
             Simple Weather App
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              strokeWidth={1.5}
+              stroke="currentColor"
+              className="w-6 h-6"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"
+              />
+            </svg>
           </a>
           <p>
             Developed a responsive weather app website using <br /> Html for
@@ -112,9 +140,23 @@ const Portfolio = () => {
             href="https://jennifer-pecky.github.io/Book-search-app/"
             target="_blank"
             rel="noopener noreferrer"
-            className="hover:underline"
+            className="hover:underline flex"
           >
             Online Book Search Platform
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              strokeWidth={1.5}
+              stroke="currentColor"
+              className="w-6 h-6"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"
+              />
+            </svg>
           </a>
           <p className="leading-7 text-base">
             Crafted an engaging online book search platform <br /> using HTML
@@ -139,9 +181,23 @@ const Portfolio = () => {
             href="https://jennifer-pecky.github.io/calculator/"
             target="_blank"
             rel="noopener noreferrer"
-            className=""
+            className="flex"
           >
             Interactive Web Calculator
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              strokeWidth={1.5}
+              stroke="currentColor"
+              className="w-6 h-6"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"
+              />
+            </svg>
           </a>
           <p>
             Developed an interactive calculator web application using <br />{' '}
@@ -166,9 +222,23 @@ const Portfolio = () => {
             href="https://www.olhomes.ng/"
             target="_blank"
             rel="noopener noreferrer"
-            className=""
+            className="flex"
           >
             olhomes.ng
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              strokeWidth={1.5}
+              stroke="currentColor"
+              className="w-6 h-6"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"
+              />
+            </svg>
           </a>
           <p>
             Contributed collaboratively to the development of "Olhomes," a
@@ -190,21 +260,36 @@ const Portfolio = () => {
 
         <div className="space-y-3">
           <a
-            href="https://nft-web22.netlify.app/"
+            href="https://adventura-story-platform.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
-            className=""
+            className="flex space-x-10"
           >
             NFT Showcase Website
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              strokeWidth={1.5}
+              stroke="currentColor"
+              className="w-6 h-6"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"
+              />
+            </svg>
           </a>
+
           <p>
-            Developed a dynamic NFT showcase website <br /> using React for
-            frontend components, Bootstrap for <br /> responsive design and
+            Developed an interactive story telling website <br /> using React
+            for frontend components, Tailwind for <br /> responsive design and
             Javascript for interactive content
           </p>
           <div className="space-x-3">
             <button className=' px-2 inline-flex justify-center items-center gap-2 rounded-md bg-pink-100 border border-transparent font-semibold text-pink-500 hover:text-pink-400 hover:bg-pink-100 focus:outline-none focus:ring-2 ring-offset-white focus:ring-pink-500 focus:ring-offset-2 transition-all text-sm dark:focus:ring-offset-gray-800">'>
-              Bootstrap
+              Tailwind Css
             </button>
             <button className="px-2 inline-flex justify-center items-center gap-2 rounded-md bg-pink-100 border border-transparent font-semibold text-pink-500 hover:text-pink-400 hover:bg-pink-100 focus:outline-none focus:ring-2 ring-offset-white focus:ring-pink-500 focus:ring-offset-2 transition-all text-sm dark:focus:ring-offset-gray-800">
               React js
