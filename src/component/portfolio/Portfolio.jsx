@@ -265,7 +265,7 @@ const Portfolio = () => {
             rel="noopener noreferrer"
             className="flex space-x-10"
           >
-            NFT Showcase Website
+            Adventura Website
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
