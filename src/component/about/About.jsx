@@ -10,7 +10,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__content">
           <p className="text-sm md:text-lg mb-3 text-gray-500 dark:text-gray-400 first-line:uppercase first-line:tracking-widest first-letter:text-7xl first-letter:font-bold first-letter:text-gray-900 dark:first-letter:text-gray-100 first-letter:mr-3 first-letter:float-left">
-            "Hey there! I'm Jennifer Chioma, a front-end developer passionate
+            Hey there! I'm Jennifer Chioma, a front-end developer passionate
             about creating captivating online experiences. I believe that every
             pixel on a screen narrates a story, and I'm on a mission to bring
             those stories to life through my code. My journey into web
