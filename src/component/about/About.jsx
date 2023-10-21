@@ -10,27 +10,16 @@ const About = () => {
       <div className="container about__container">
         <div className="about__content">
           <p className="text-sm md:text-lg mb-3 text-gray-500 dark:text-gray-400 first-line:uppercase first-line:tracking-widest first-letter:text-7xl first-letter:font-bold first-letter:text-gray-900 dark:first-letter:text-gray-100 first-letter:mr-3 first-letter:float-left">
-            Hey there! I'm Jennifer Chioma, a front-end developer passionate
-            about creating captivating online experiences. I believe that every
-            pixel on a screen narrates a story, and I'm on a mission to bring
-            those stories to life through my code. My journey into web
-            development began with a fascination for HTML and CSS, and I quickly
-            became engrossed in crafting user-friendly designs that are both
-            visually stunning and highly functional. Over time, I honed my
-            skills in developing sleek, responsive designs that enhance not only
-            aesthetics but also user convenience. I've had the privilege of
-            collaborating on diverse projects with various teams, ranging from
-            e-commerce and entertainment websites to educational platforms. What
-            excites me about web development is its ever-evolving nature. Each
-            day presents new opportunities to learn, fresh challenges to
-            conquer, and innovative technologies to explore. This perpetual
-            learning journey keeps me enthusiastic and consistently eager to
-            enhance my expertise. <br /> When I'm not immersed in my code
-            editor, you'll often find me immersed in the world of video games.
-            There's something extraordinary about exploring virtual realms and
-            immersing myself in their stories. And when I'm not gaming, you
-            might discover me pursuing my other hobbies, such as hiking,
-            culinary adventures in the kitchen, or strumming
+            "I'm Jennifer Chioma, a front-end developer dedicated to creating
+            captivating online experiences. I'm passionate about crafting
+            user-friendly designs that are visually stunning and highly
+            functional. I've worked on a variety of projects, from e-commerce to
+            educational platforms. Web development's ever-changing landscape
+            keeps me excited to learn and grow. When I'm not coding, I enjoy
+            video games and various hobbies like hiking and cooking. Let's work
+            together to bring your digital dreams to life, whether it's a
+            stunning website or a problem-solving web app. Thanks for stopping
+            by – let's embark on this coding adventure together!"
           </p>
           <div className="flex justify-center mt-10">
             <a href="#contact" className="btn btn-primary">
