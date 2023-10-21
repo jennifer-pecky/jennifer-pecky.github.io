@@ -32,25 +32,6 @@ const Portfolio = () => {
     <section id="portfolio">
       <h5 className="text-xl">My Experience</h5>
       <h2 className="text-xl">Projects</h2>
-      {/* 
-      <div className="container portfolio__container">
-        {data.map(({ id, image, title, demo }) => {
-          return (
-            <article key={id} className="portfolio__item">
-              <div className="Portfolio__item-image">
-                <img src={image} alt="{title}" />
-              </div>
-              <h3>{title}</h3>
-              <div className="portfolio__item-cta">
-                <a href={demo} className="btn btn-primary" target="_blank">
-                  {' '}
-                  Live
-                </a>
-              </div>
-            </article>
-          );
-        })}
-      </div> */}
 
       <div className="container portfolio gap-[3rem]">
         <div className="space-y-3">
