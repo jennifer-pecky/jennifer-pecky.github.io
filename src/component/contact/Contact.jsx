@@ -1,10 +1,10 @@
-import React from 'react';
-import './contact.css';
-import { HiMail } from 'react-icons/hi';
-import { BsTwitter } from 'react-icons/bs';
-import { FiLinkedin } from 'react-icons/fi';
-import { useRef } from 'react';
-import emailjs from 'emailjs-com';
+import React from "react";
+import "./contact.css";
+import { HiMail } from "react-icons/hi";
+import { BsTwitter } from "react-icons/bs";
+import { FiLinkedin } from "react-icons/fi";
+import { useRef } from "react";
+import emailjs from "emailjs-com";
 
 const Contact = () => {
   const form = useRef();
@@ -13,10 +13,10 @@ const Contact = () => {
     e.preventDefault();
 
     emailjs.sendForm(
-      'service_uh4k4gm',
-      'template_ns1pajd',
+      "service_uh4k4gm",
+      "template_ns1pajd",
       form.current,
-      'upYp6yJ4Wee5EDLvd'
+      "upYp6yJ4Wee5EDLvd"
     );
 
     e.target.reset;
@@ -27,7 +27,7 @@ const Contact = () => {
       <h5>Get In Touch</h5>
       <h2>Contact Me</h2>
 
-      <div className="container contact__container">
+      <div className="container contact__container p-6">
         <div className="contact__options">
           <article className="contact__option">
             <HiMail className="contact__option-icon" />

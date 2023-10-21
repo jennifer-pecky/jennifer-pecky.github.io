@@ -33,7 +33,7 @@ const Portfolio = () => {
       <h5 className="text-xl">My Experience</h5>
       <h2 className="text-xl">Projects</h2>
 
-      <div className="container portfolio gap-[3rem]">
+      <div className="container portfolio gap-[3rem] p-5">
         <div className="space-y-3">
           <a
             href="https://nft-web22.netlify.app/"
