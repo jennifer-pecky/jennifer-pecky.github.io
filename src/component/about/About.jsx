@@ -25,7 +25,12 @@ const About = () => {
             day presents new opportunities to learn, fresh challenges to
             conquer, and innovative technologies to explore. This perpetual
             learning journey keeps me enthusiastic and consistently eager to
-            enhance my expertise
+            enhance my expertise. <br /> When I'm not immersed in my code
+            editor, you'll often find me immersed in the world of video games.
+            There's something extraordinary about exploring virtual realms and
+            immersing myself in their stories. And when I'm not gaming, you
+            might discover me pursuing my other hobbies, such as hiking,
+            culinary adventures in the kitchen, or strumming
           </p>
           <div className="flex justify-center mt-10">
             <a href="#contact" className="btn btn-primary">
