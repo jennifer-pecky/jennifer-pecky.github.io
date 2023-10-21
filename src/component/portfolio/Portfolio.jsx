@@ -1,8 +1,8 @@
-import React from 'react';
-import './portfolio.css';
-import img1 from '../../images/one.png';
-import img2 from '../../images/two.png';
-import img3 from '../../images/Screenshot from 2022-10-19 13-04-07.png';
+import React from "react";
+import "./portfolio.css";
+import img1 from "../../images/one.png";
+import img2 from "../../images/two.png";
+import img3 from "../../images/Screenshot from 2022-10-19 13-04-07.png";
 
 // const data = [
 //   {
@@ -178,12 +178,12 @@ const Portfolio = () => {
 
         <div className="space-y-3">
           <a
-            href="https://jennifer-pecky.github.io/calculator/"
+            href="https://de-sab.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex"
           >
-            Interactive Web Calculator
+            Interactive Dashboard
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
@@ -200,15 +200,15 @@ const Portfolio = () => {
             </svg>
           </a>
           <p>
-            Developed an interactive calculator web application using <br />{' '}
-            HTML for struture Tailwind css for styling <br /> and Javascript for
-            enabling dynamic calculator
+            Developed an interactive Dashboard application using <br /> React
+            for struture Tailwind css for styling <br /> and Javascript for
+            enabling dynamic functionality
           </p>
           <div className="space-x-3">
             <button className=' px-2 inline-flex justify-center items-center gap-2 rounded-md bg-pink-100 border border-transparent font-semibold text-pink-500 hover:text-pink-400 hover:bg-pink-100 focus:outline-none focus:ring-2 ring-offset-white focus:ring-pink-500 focus:ring-offset-2 transition-all text-sm dark:focus:ring-offset-gray-800">'>
-              Bootstrap
+              Tailwind
             </button>
-            <button className="px-2 inline-flex justify-center items-center gap-2 rounded-md bg-pink-100 border border-transparent font-semibold text-pink-500 hover:text-pink-400 hover:bg-pink-100 focus:outline-none focus:ring-2 ring-offset-white focus:ring-pink-500 focus:ring-offset-2 transition-all text-sm dark:focus:ring-offset-gray-800">
+            <button calassName="px-2 inline-flex justify-center items-center gap-2 rounded-md bg-pink-100 border border-transparent font-semibold text-pink-500 hover:text-pink-400 hover:bg-pink-100 focus:outline-none focus:ring-2 ring-offset-white focus:ring-pink-500 focus:ring-offset-2 transition-all text-sm dark:focus:ring-offset-gray-800">
               React js
             </button>
             <button className="px-2 inline-flex justify-center items-center gap-2 rounded-md bg-pink-100 border border-transparent font-semibold text-pink-500 hover:text-pink-400 hover:bg-pink-100 focus:outline-none focus:ring-2 ring-offset-white focus:ring-pink-500 focus:ring-offset-2 transition-all text-sm dark:focus:ring-offset-gray-800">
