@@ -1,5 +1,5 @@
-import React from 'react';
-import CV from '../../images/Jennifer_Maduagwu_frontend_developer.pdf';
+import React from "react";
+import CV from "../../images/Maduagwu _jennifer_chioma_frontend developer-cv.pdf";
 
 const CTA = () => {
   return (
